@@ -1,6 +1,6 @@
 import React from "react"
 import Navigation from "./Navigation";
-import Card from "./card";
+import Card from "./Card";
 import Footer from "./Footer";
 const Landing = () => {
     return (
